@@ -17,3 +17,12 @@ Component
 
 Bootstrap
          npm install bootstrap
+
+
+
+#ToDo
+1. New Angular Project Version13 "FinalProject"
+2. install Bootstrap
+3. Create Component "Login"
+4. Create Component "Register"
+5. Create component "ForgetPassword"
