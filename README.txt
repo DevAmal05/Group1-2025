@@ -14,3 +14,6 @@ Install
 
 Component
          ng g c name_component
+
+Bootstrap
+         npm install bootstrap
